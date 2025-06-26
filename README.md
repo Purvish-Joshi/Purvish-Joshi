@@ -6,10 +6,11 @@
 ### 💡 About Me
 - 🔭 I’m currently working on **MERN stack projects**
 - 🌱 I’m learning **backend development, advanced React patterns & DSA**
-- 👯 I’m looking to collaborate on **open-source projects and mini tools**
+- 🎬 I have a deep interest in **movies, storytelling, and entertainment tech**
+- 👯 I’m looking to collaborate on **open-source projects, mini tools & creative web apps**
 - 💬 Ask me about **React, Node.js, or JavaScript**
 - 🎯 2025 Goal: Build impactful projects & contribute to open source
-- 📫 How to reach me: `purvish.joshi@example.com` *(update if needed)*
+- 📫 How to reach me: `purvish.joshi@example.com` 
 
 ---
 
@@ -36,6 +37,14 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🎬 Movies & Entertainment
+
+- 🎥 Passionate about **films, storytelling, and visual design**
+- 🧠 Inspired by how tech blends with creativity in the **entertainment industry**
+- 💭 Dream project: A movie-based web app that lets users share theories, fan edits, and reviews
 
 ---
 
