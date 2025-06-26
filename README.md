@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **open-source projects, mini tools & creative web apps**
 - 💬 Ask me about **React, Node.js, or JavaScript**
 - 🎯 2025 Goal: Build impactful projects & contribute to open source
-- 📫 How to reach me: `purvish.joshi@example.com` 
+- 📫 How to reach me: `joshipurvish1904@gmail.com` 
 
 ---
 
