@@ -48,17 +48,8 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Purvish-Joshi&show_icons=true&theme=dark&hide_border=true"
-  />
-  <br/>
-  <img 
-    src="https://streak-stats.demolab.com?user=Purvish-Joshi&theme=dark&hide_border=true"
-  />
-</p>
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Purvish-Joshi&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
