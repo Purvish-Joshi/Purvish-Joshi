@@ -47,6 +47,26 @@
 - 💭 Dream project: A movie-based web app that lets users share theories, fan edits, and reviews
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Purvish-Joshi&show_icons=true&theme=radical&cache_seconds=86400" 
+    alt="Purvish Joshi GitHub Stats"
+  />
+  <br/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Purvish-Joshi&theme=radical" 
+    alt="GitHub Streak"
+  />
+  <br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvish-Joshi&layout=compact&theme=radical&langs_count=8" 
+    alt="Top Languages"
+  />
+</p>
+
+---
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Purvish-Joshi&label=Profile%20views&color=0e75b6&style=flat)
