@@ -56,11 +56,6 @@
   />
   <br/>
   <img 
-    src="https://streak-stats.demolab.com?user=Purvish-Joshi&theme=radical" 
-    alt="GitHub Streak"
-  />
-  <br/>
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvish-Joshi&layout=compact&theme=radical&langs_count=8" 
     alt="Top Languages"
   />
