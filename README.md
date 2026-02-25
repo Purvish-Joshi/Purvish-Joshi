@@ -25,10 +25,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visual studio" />
 </p>
-
----
 
 ---
 
