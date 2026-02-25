@@ -1,6 +1,7 @@
-<h1 align="center">Purvish Joshi</h1>
+<h1 align="center">Hi 👋, I'm Purvish Joshi</h1>
+
 <p align="center">
-Full-Stack Developer • MERN Stack • Problem Solver
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Backend+Focused+Learner;Building+Clean+%26+Scalable+Apps" />
 </p>
 
 ---
@@ -23,8 +24,32 @@ Full-Stack Developer • MERN Stack • Problem Solver
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Purvish-Joshi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Purvish-Joshi&theme=transparent&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvish-Joshi&layout=compact&theme=transparent&hide_border=true"
+    height="150"
+  />
 </p>
 
 ---
