@@ -14,12 +14,15 @@
 - Deep interest in **movies, storytelling & entertainment tech**
 - Open to collaboration on meaningful and creative projects
 
+### 📬 Connect With Me
+
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joshipurvish1904@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
-  <a href="https://www.linkedin.com/in/purvish-joshi-cte-gecbvn-ce-5231b3328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-joshipurvish1904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/purvish-joshi-5231b3328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Purvish%20Joshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
