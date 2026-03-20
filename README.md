@@ -39,13 +39,9 @@ const purvish = {
 ## 🛠 Tech Stack
 
 <p align="center">
-  <sub><b>Languages</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/><br/>
-  <sub><b>Frontend</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" /><br/><br/>
-  <sub><b>Backend & Databases</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" /><br/><br/>
-  <sub><b>Tools & Workflow</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
@@ -87,7 +83,3 @@ const purvish = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=80&section=footer&animation=fadeIn&stroke=0e75b6&strokeWidth=1" />
-</div>
