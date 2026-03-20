@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:061a2e,50:0e75b6,100:0d1117&height=220&section=header&text=Purvish%20Joshi&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=60&descSize=16&descColor=a0c4e0&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=180&section=header&text=Purvish%20Joshi&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=62&descSize=15&descColor=0e75b6&animation=fadeIn&stroke=0e75b6&strokeWidth=2" />
 
 </div>
 
@@ -39,9 +39,13 @@ const purvish = {
 ## 🛠 Tech Stack
 
 <p align="center">
+  <sub><b>Languages</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/><br/>
+  <sub><b>Frontend</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" /><br/><br/>
+  <sub><b>Backend & Databases</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" /><br/><br/>
+  <sub><b>Tools & Workflow</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
@@ -85,5 +89,5 @@ const purvish = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:0e75b6&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=80&section=footer&animation=fadeIn&stroke=0e75b6&strokeWidth=1" />
 </div>
