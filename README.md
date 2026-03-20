@@ -36,9 +36,12 @@ const purvish = {
 
 ## 🛠 Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,redux,tailwind,nodejs,express,mongodb,dotnet,mysql,git,github,vscode,visualstudio&perline=6" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 ---
 
