@@ -71,12 +71,40 @@ const purvish = {
 
 <div align="center">
 
-| 🏷️ Area | 📌 Focus | 🔥 Status |
-|:---:|:---|:---:|
-| ⚛️ **Frontend** | Advanced React patterns & performance optimization | `In Progress` |
-| 🔧 **Backend** | Scalable architecture & REST API design | `In Progress` |
-| 🗃️ **Projects** | Production-ready MERN applications | `Building` |
-| 🧠 **Foundations** | Data Structures & Algorithms | `Daily Practice` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚛️ Frontend</h3>
+      <p align="center">Advanced React Patterns & Performance</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-blue?style=flat-square&labelColor=2d333b" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔧 Backend</h3>
+      <p align="center">Scalable Architecture & REST APIs</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-blue?style=flat-square&labelColor=2d333b" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗃️ Projects</h3>
+      <p align="center">Production-Ready MERN Apps</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Building-green?style=flat-square&labelColor=2d333b" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 DSA</h3>
+      <p align="center">Data Structures & Algorithms</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Daily_Practice-orange?style=flat-square&labelColor=2d333b" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
