@@ -38,23 +38,14 @@ const purvish = {
 
 ## 🛠 Tech Stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" />
-</p>
-
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" />
-</p>
-
-**Tools & Workflow**
-<p>
+<p align="center">
+  <sub><b>Languages</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" /><br/><br/>
+  <sub><b>Frontend</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" /><br/><br/>
+  <sub><b>Backend & Databases</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" /><br/><br/>
+  <sub><b>Tools & Workflow</b></sub><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
@@ -84,12 +75,16 @@ const purvish = {
 
 ## 🚀 Currently Working On
 
-| Area | Focus |
-|---|---|
-| ⚛️ Frontend | Advanced React patterns & performance |
-| 🔧 Backend | Scalable architecture & REST API design |
-| 🗃️ Projects | Production-ready MERN applications |
-| 🧠 Foundations | Data Structures & Algorithms |
+<div align="center">
+
+| 🏷️ Area | 📌 Focus | 🔥 Status |
+|:---:|:---|:---:|
+| ⚛️ **Frontend** | Advanced React patterns & performance optimization | `In Progress` |
+| 🔧 **Backend** | Scalable architecture & REST API design | `In Progress` |
+| 🗃️ **Projects** | Production-ready MERN applications | `Building` |
+| 🧠 **Foundations** | Data Structures & Algorithms | `Daily Practice` |
+
+</div>
 
 ---
 
